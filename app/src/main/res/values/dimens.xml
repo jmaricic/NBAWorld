@@ -1,0 +1,17 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="default_margins">16dp</dimen>
+    <dimen name="navigation_header_height">222dp</dimen>
+    <dimen name="avator_size">40dp</dimen>
+    <dimen name="list_big_letter">16sp</dimen>
+    <dimen name="list_small_letter">14sp</dimen>
+    <dimen name="tile_padding">8dp</dimen>
+    <dimen name="tile_height">160dp</dimen>
+    <dimen name="title_size">20sp</dimen>
+    <dimen name="card_title_height">40dp</dimen>
+    <dimen name="card_image_height">200dp</dimen>
+    <dimen name="card_height">310dp</dimen>
+    <dimen name="app_bar_height">256dp</dimen>
+    <dimen name="toolbar_title_margins">72dp</dimen>
+
+</resources>

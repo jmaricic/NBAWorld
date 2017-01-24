@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="nba_logos">
+        <item>@drawable/bucks</item>
+        <item>@drawable/bulls</item>
+        <item>@drawable/cavs</item>
+        <item>@drawable/celtics</item>
+        <item>@drawable/clippers</item>
+        <item>@drawable/grizzlies</item>
+        <item>@drawable/hawks</item>
+        <item>@drawable/heat</item>
+        <item>@drawable/hornets</item>
+        <item>@drawable/jazz</item>
+        <item>@drawable/kings</item>
+        <item>@drawable/knicks</item>
+        <item>@drawable/lakers</item>
+        <item>@drawable/magic</item>
+        <item>@drawable/mavericks</item>
+        <item>@drawable/nets</item>
+        <item>@drawable/nuggets</item>
+        <item>@drawable/pacers</item>
+        <item>@drawable/pelicans</item>
+        <item>@drawable/phila</item>
+        <item>@drawable/pistons</item>
+        <item>@drawable/raptors</item>
+        <item>@drawable/rockets</item>
+        <item>@drawable/spurs</item>
+        <item>@drawable/suns</item>
+        <item>@drawable/thunder</item>
+        <item>@drawable/timberwolves</item>
+        <item>@drawable/trailblazers</item>
+        <item>@drawable/warriors</item>
+        <item>@drawable/wizards</item>
+    </array>
+
+    <array name="nba_names">
+        <item>Milwaukee Bucks</item>
+        <item>Chicago Bulls</item>
+        <item>Cleveland Cavaliers</item>
+        <item>Boston Celtics</item>
+        <item>Los Angeles Clippers</item>
+        <item>Memphis Grizzlies</item>
+        <item>Atlanta Hawks</item>
+        <item>Miami Heat</item>
+        <item>Charlotte Hornets</item>
+        <item>Utah Jazz</item>
+        <item>Sacramento Kings</item>
+        <item>New York Knicks</item>
+        <item>Los Angeles Lakers</item>
+        <item>Orlando Magic</item>
+        <item>Dallas Mavericks</item>
+        <item>Brooklyn Nets</item>
+        <item>Denver Nuggets</item>
+        <item>Indiana Pacers</item>
+        <item>New Orleans Pelicans</item>
+        <item>Philadelphia 76ers</item>
+        <item>Detroit Pistons</item>
+        <item>Toronto Raptors</item>
+        <item>Houston Rockets</item>
+        <item>San Antonio Spurs</item>
+        <item>Phoenix Suns</item>
+        <item>Oklahoma City Thunder</item>
+        <item>Minnesota Timberwolves</item>
+        <item>Portland Trailblazers</item>
+        <item>Golden State Warriors</item>
+        <item>Washington Wizards</item>
+    </array>
+
+    <array name="nba_team_location">
+        <item>Milwaukee, Wisconsin</item>
+        <item>Chicago, Illinois</item>
+        <item>Cleveland, Ohio</item>
+        <item>Boston, Massachusetts</item>
+        <item>Los Angeles, California</item>
+        <item>Memphis, Tennessee</item>
+        <item>Atlanta, Georgia</item>
+        <item>Miami, Florida</item>
+        <item>Charlotte, North Carolina</item>
+        <item>Salt Lake City, Utah</item>
+        <item>Sacramento, California</item>
+        <item>New York City, New York</item>
+        <item>Los Angeles, California</item>
+        <item>Orlando, Florida</item>
+        <item>Dallas, Texas</item>
+        <item>Brooklyn, New York</item>
+        <item>Denver, Colorado</item>
+        <item>Indianapolis, Indiana</item>
+        <item>New Orleans, Louisiana</item>
+        <item>Philadelphia, Pennsylvania</item>
+        <item>Auburn Hills, Michigan</item>
+        <item>Toronto, Ontario</item>
+        <item>Houston, Texas</item>
+        <item>San Antonio, Texas</item>
+        <item>Phoenix, Arizona</item>
+        <item>Oklahoma City, Oklahoma</item>
+        <item>Minneapolis, Minnesota</item>
+        <item>Portland, Oregon</item>
+        <item>Oakland, California</item>
+        <item>Washington, D.C.</item>
+    </array>
+
+    <array name="nba_arenas">
+        <item>BMO Harris Bradley Center</item>
+        <item>United Center</item>
+        <item>Quicken Loans Arena</item>
+        <item>TD Garden</item>
+        <item>Staples Center</item>
+        <item>FedExForum</item>
+        <item>Philips Arena</item>
+        <item>American Airlines Arena</item>
+        <item>Spectrum Center</item>
+        <item>Vivint Smart Home Arena</item>
+        <item>Golden 1 Center</item>
+        <item>Madison Square Garden</item>
+        <item>Staples Center</item>
+        <item>Amway Center</item>
+        <item>American Airlines Center</item>
+        <item>Barclays Center</item>
+        <item>Pepsi Center</item>
+        <item>Bankers Life Fieldhouse</item>
+        <item>Smoothie King Center</item>
+        <item>Wells Fargo Center</item>
+        <item>The Palace of Auburn Hills</item>
+        <item>Air Canada Centre</item>
+        <item>Toyota Center</item>
+        <item>ATnT Center</item>
+        <item>Talking Stick Resort Arena</item>
+        <item>Chesapeake Energy Arena</item>
+        <item>Target Center</item>
+        <item>Moda Center</item>
+        <item>Oracle Arena</item>
+        <item>Verizon Center</item>
+    </array>
+
+    <array name="nba_championships">
+        <item>1 (1971)</item>
+        <item>6 (1991, 1992, 1993, 1996, 1997, 1998)</item>
+        <item>1 (2016)</item>
+        <item>17 (1957, 1959, 1960, 1961, 1962, 1963, 1964, 1965, 1966, 1968, 1969, 1974, 1976,
+            1981, 1984, 1986, 2008)
+        </item>
+        <item>-</item>
+        <item>-</item>
+        <item>1 (1958)</item>
+        <item>3 (2006, 2012, 2013)</item>
+        <item>-</item>
+        <item>-</item>
+        <item>1 (1951)</item>
+        <item>2 (1970, 1973)</item>
+        <item>16 (1949, 1950, 1952, 1953, 1954, 1972, 1980, 1982, 1985, 1987, 1988, 2000, 2001,
+            2002, 2009, 2010)
+        </item>
+        <item>-</item>
+        <item>1 (2011)</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>3 (1955, 1967, 1983)</item>
+        <item>3 (1989, 1990, 2004)</item>
+        <item>0</item>
+        <item>2 (1994, 1995)</item>
+        <item>5 (1999, 2003, 2005, 2007, 2014)</item>
+        <item>-</item>
+        <item>1 (1979)</item>
+        <item>-</item>
+        <item>1 (1977)</item>
+        <item>4 (1947, 1956, 1975, 2015)</item>
+        <item>1 (1978)</item>
+    </array>
+
+    <array name="nba_conference_titles">
+        <item>2 (1971, 1974)</item>
+        <item>6 (1991, 1992, 1993, 1996, 1997, 1998)</item>
+        <item>3 (2007, 2015, 2016)</item>
+        <item>21 (1957, 1958, 1959, 1960, 1961, 1962, 1963, 1964, 1965, 1966, 1968, 1969, 1974,
+            1976, 1981, 1984, 1985, 1986, 1987, 2008, 2010)
+        </item>
+        <item>-</item>
+        <item>-</item>
+        <item>4 (1957, 1958, 1960, 1961)</item>
+        <item>5 (2006, 2011, 2012, 2013, 2014)</item>
+        <item>-</item>
+        <item>2 (1997, 1998)</item>
+        <item>1 (1951)</item>
+        <item>8 (1951, 1952, 1953, 1970, 1972, 1973, 1994, 1999)</item>
+        <item>31 (1949, 1950, 1952, 1953, 1954, 1959, 1962, 1963, 1965, 1966, 1968, 1969, 1970,
+            1972, 1973, 1980, 1982, 1983, 1984, 1985, 1987, 1988, 1989, 1991, 2000, 2001, 2002,
+            2004, 2008, 2009, 2010)
+        </item>
+        <item>2 (1995, 2009)</item>
+        <item>2 (2006, 2011)</item>
+        <item>2 (2002, 2003)</item>
+        <item>-</item>
+        <item>1 (2000)</item>
+        <item>-</item>
+        <item>9 (1950, 1954, 1955, 1967, 1977, 1980, 1982, 1983, 2001)</item>
+        <item>7 (1955, 1956, 1988, 1989, 1990, 2004, 2005)</item>
+        <item>-</item>
+        <item>4 (1981, 1986, 1994, 1995)</item>
+        <item>6 (1999, 2003, 2005, 2007, 2013, 2014)</item>
+        <item>2 (1976, 1993)</item>
+        <item>4 (1978, 1979, 1996, 2012)</item>
+        <item>-</item>
+        <item>3 (1977, 1990, 1992)</item>
+        <item>8 (1947, 1948, 1956, 1964, 1967, 1975, 2015, 2016)</item>
+        <item>4 (1971, 1975, 1978, 1979)</item>
+    </array>
+
+    <array name="nba_scorers">
+        <item>1. Kareem Abdul-Jabbar\t 38,387</item>
+        <item>2. Karl Malone\t 36,928</item>
+        <item>3. Kobe Bryant\t 33,643</item>
+        <item>4. Michael Jordan\t 2,292</item>
+        <item>5. Wilt Chamberlain\t 31,419</item>
+        <item>6. Julius Erving\t 30,026</item>
+        <item>7. Dirk Nowitzki\t 29,722</item>
+        <item>8. Moses Malone\t 29,580</item>
+        <item>9. Shaquille O\'Neal\t 28,596</item>
+        <item>10. LeBron James\t 27,803</item>
+    </array>
+
+    <array name="nba_scorers_image">
+        <item>@drawable/kareem</item>
+        <item>@drawable/karl</item>
+        <item>@drawable/kobe</item>
+        <item>@drawable/jordan</item>
+        <item>@drawable/wilt</item>
+        <item>@drawable/erwing</item>
+        <item>@drawable/dirk</item>
+        <item>@drawable/moses</item>
+        <item>@drawable/oneal</item>
+        <item>@drawable/lbj</item>
+    </array>
+
+    <array name="nba_player_stats">
+        <item>Points:\t38,387 (24.6 ppg)\nRebounds:\t17,440 (11.2 rpg)\nBlocks:\t3,189 (2.5 bpg)
+        </item>
+        <item>Points:\t36,928 (25.0 ppg)\nRebounds:\t14,968 (10.1 rpg)\nAssists:\t5,238 (3.5 apg)
+        </item>
+        <item>Points:\t33,643 (25.0 ppg)\nRebounds:\t7,047 (5.2 rpg)\nAssists:\t6,306 (4.7 apg)
+        </item>
+        <item>Points:\t32,292 (30.1 ppg)\nRebounds:\t6,672 (6.2 rpg)\nAssists:\t5,633 (5.3 apg)
+        </item>
+        <item>Points:\t31,419 (30.1 ppg)\nRebounds:\t23,924 (22.9 rpg)\nAssists:\t4,643 (4.4 apg)
+        </item>
+        <item>Points:\t30,026 (24.2 ppg)\nRebounds:\t10,525 (8.5 rpg)\nAssists:\t5,176 (4.2 apg)
+        </item>
+        <item>Points:\t29,722 (21.9 ppg)</item>
+        <item>Points:\t29,580 (20.6 ppg)\nRebounds:\t17,834 (12.2 rpg)\nAssists:\t1,936 (1.4 apg)
+        </item>
+        <item>Points:\t28,596 (23.7 ppg)\nRebounds:\t13,099 (10.9 rpg)\nBlocks:\t2,732 (2.3 bpg)
+        </item>
+        <item>Points:\t27,803 (27.1 ppg)</item>
+    </array>
+
+    <array name="nba_player_position">
+        <item>Center</item>
+        <item>Power forward</item>
+        <item>Shooting guard</item>
+        <item>Shooting guard</item>
+        <item>Center</item>
+        <item>Small forward</item>
+        <item>Power forward</item>
+        <item>Center</item>
+        <item>Center</item>
+        <item>Small forward</item>
+    </array>
+
+    <array name="nba_player_teams">
+        <item>1969 – 1975\tMilwaukee Bucks\n1975 – 1989\tLos Angeles Lakers</item>
+        <item>1985 – 2003\tUtah Jazz\n2003 – 2004\tLos Angeles Lakers</item>
+        <item>1996 – 2016\tLos Angeles Lakers</item>
+        <item>1984 – 1993, 1995 – 1998\tChicago Bulls\n2001 – 2003\tWashington Wizards</item>
+        <item>1959 – 1965\tPhiladelphia / San Francisco Warriors\n1965 – 1968\tPhiladelphia
+            76ers\n1968 – 1973\tLos Angeles Lakers
+        </item>
+        <item>1971 – 1973\tVirginia Squires\n1973 – 1976\tNew York Nets\n1976 – 1987\tPhiladelphia
+            76ers
+        </item>
+        <item>1998 – present\tDallas Mavericks</item>
+        <item>1976 – 1982\tHouston Rockets\n1982 – 1986\tPhiladelphia 76ers\n1986 – 1988\tWashington
+            Bullets\n1988 – 1991\tAtlanta Hawks\n1991 – 1993\tMilwaukee Bucks\n1993 –
+            1994\tPhiladelphia 76ers\n1994 – 1995\tSan Antonio Spurs
+        </item>
+        <item>1992 – 1996\tOrlando Magic\n1996 – 2004\tLos Angeles Lakers\n2004 – 2008\tMiami
+            Heat\n2008 – 2009\tPhoenix Suns\n2009 – 2010\tCleveland Cavaliers\n2010 – 2011\tBoston
+            Celtics
+        </item>
+        <item>2003 – 2010\tCleveland Cavaliers\n2010 – 2014\tMiami Heat\n2014 – present\tCleveland
+            Cavaliers
+        </item>
+    </array>
+
+    <array name="nba_players_draft">
+        <item>1969.\nRound:\t1\nPick:\t1st\nSelected by the Milwaukee Bucks</item>
+        <item>1985.\nRound:\t1\nPick:\t13th\nSelected by the Utah Jazz</item>
+        <item>1996.\nRound:\t1\nPick:\t13th\nSelected by the Charlotte Hornets</item>
+        <item>1984.\nRound:\t1\nPick:\t3rd\nSelected by the Chicago Bulls</item>
+        <item>1959.\nPick:\tTerritorial\nSelected by the Philadelphia Warriors</item>
+        <item>1972.\nRound:\t1\nPick:\t12th\nSelected by the Milwaukee Bucks</item>
+        <item>1998.\nRound:\t1\nPick:\t9th\nSelected by the Milwaukee Bucks</item>
+        <item>1974.\nRound:\t3 (ABA)</item>
+        <item>1992.\nRound:\t1\nPick:\t1st\nSelected by the Orlando Magic</item>
+        <item>2003.\nRound:\t1\nPick:\t1st\nSelected by the Cleveland Cavaliers</item>
+    </array>
+
+    <array name="nba_assists">
+        <item>1. John Stockton\t 15,806\n(10.51 apg)</item>
+        <item>2. Jason Kidd\t 12,091\n(8.69 apg)</item>
+        <item>3. Steve Nash\t 10,335\n(8.49 apg)</item>
+        <item>4. Mark Jackson\t 10,334\n(7.97 apg)</item>
+        <item>5. Magic Johnson\t 10,141\n(11.19 apg)</item>
+        <item>6. Oscar Robertson\t 9,887\n(9.51 apg)</item>
+        <item>7. Isiah Thomas\t 9,061\n(9.26 apg)</item>
+        <item>8. Gary Payton\t 8,966\n(6.72 apg)</item>
+        <item>9. Andre Miller\t 8,524\n(6.54 apg)</item>
+        <item>10. Chris Paul\t 8,037\n(9.93 apg)</item>
+    </array>
+
+    <array name="nba_rebounds">
+        <item>1. Wilt Chamberlain\t 23,924\n(22.89 rpg)</item>
+        <item>2. Bill Russell\t 21,620\n(22.45 rpg)</item>
+        <item>3. Kareem Abdul-Jabbar\t 17,440\n(11.18 rpg)</item>
+        <item>4. Elvin Hayes\t 16,279\n(12.49 rpg)</item>
+        <item>5. Moses Malone\t 16,212\n(12.20 rpg)</item>
+        <item>6. Tim Duncan\t 15,091\n(10.84 rpg)</item>
+        <item>7. Karl Malone\t 14,968\n(10.14 rpg)</item>
+        <item>8. Robert Parish\t 14,715\n(9.1 rpg)</item>
+        <item>9. Kevin Garnett\t 14,662\n(10.03 rpg)</item>
+        <item>10. Nate Thurmond\t 14,464\n(15.00 rpg)</item>
+    </array>
+
+    <array name="nba_triple_double">
+        <item>1. Oscar Robertson\t 181</item>
+        <item>2. Magic Johnson\t 138</item>
+        <item>3. Jason Kidd\t 107</item>
+        <item>4. Wilt Chamberlain\t 78</item>
+        <item>5. Larry Bird\t 59</item>
+        <item>6. Russell Westbrook\t 58</item>
+        <item>7. LeBron James\t 45</item>
+        <item>8. Fat Lever\t 43</item>
+        <item>9. Bob Cousy\t 33</item>
+        <item>10. John Havlicek\t 31</item>
+    </array>
+
+</resources>

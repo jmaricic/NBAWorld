@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/assists"
+            android:icon="@drawable/ic_looks_one_black_24dp"
+            android:title="Assists" />
+        <item
+            android:id="@+id/rebounds"
+            android:icon="@drawable/ic_looks_two_black_24dp"
+            android:title="Rebounds" />
+        <item
+            android:id="@+id/triple_doubles"
+            android:icon="@drawable/ic_looks_3_black_24dp"
+            android:title="Triple Doubles" />
+    </group>
+</menu>

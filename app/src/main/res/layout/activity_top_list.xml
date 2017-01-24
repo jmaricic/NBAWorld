@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="?android:attr/selectableItemBackground"
+    android:padding="@dimen/default_margins"
+    android:id="@+id/row">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="@dimen/avator_size"
+        android:layout_height="@dimen/avator_size"
+        android:scaleType="fitCenter"
+        android:src="@drawable/cover" />
+
+    <TextView
+        android:id="@+id/organisation_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/default_margins"
+        android:layout_marginStart="@dimen/default_margins"
+        android:layout_toRightOf="@+id/logo"
+        android:layout_toEndOf="@id/logo"
+        android:layout_centerVertical="true"
+        tools:text="1. Oscar Robertson\t 181"
+        android:textAppearance="?attr/textAppearanceListItem"
+        android:textSize="18sp" />
+
+
+</RelativeLayout>
